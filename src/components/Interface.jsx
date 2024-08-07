@@ -96,7 +96,7 @@ const AboutSection = (props) => {
         Contact me
       </motion.button>
       <motion.button
-        onClick={() => window.location.href='https://bard.google.com/'}
+        onClick={() => window.location.href='https://drive.google.com/file/d/1CX0mK6ne0fZ_kDmkEBNbGKopgj-KrGvk/view?usp=sharing'}
         rel="noopener noreferrer"
         className={`bg-yellow-500 text-white py-2 px-8 flex flex-row
       rounded-lg font-bold text-lg mt-2 md:mt-4`}
